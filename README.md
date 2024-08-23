@@ -1,2 +1,1 @@
-# Geometric-Solver
-# Geometric-Solver
+# geometric-golver
